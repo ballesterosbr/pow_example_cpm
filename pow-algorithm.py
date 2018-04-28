@@ -27,7 +27,7 @@ myTX = [
 
 #Header data
 version = '00000001'
-prev_hash = '56d52878eb8600c7a4c585af9f45a3511a7e1db425fe921001924f11643de4b6'
+prev_hash = '66fb5af9dcc1ebf5096052874b51cfdd1675e7a047083e461ec586d31bd4688e'
 merkle_root = merkle_root_func(myTX)
 bits = '1e0fffff'
 student_hash = '016c9ecee0cc3d695835e928fd084d1c9d278cd7aff9570d54247f576355194f'
